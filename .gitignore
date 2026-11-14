@@ -1,0 +1,13 @@
+
+
+.env
+*.pem
+
+
+__pycache__/
+*.pyc
+
+
+llm/config.py
+memory/session_memory.json
+reports/
